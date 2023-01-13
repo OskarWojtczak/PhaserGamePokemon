@@ -1,0 +1,172 @@
+{"frames": {
+
+"oskar-back-walk.000.png":
+{
+	"frame": {"x":113,"y":1,"w":104,"h":168},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":43,"y":17,"w":104,"h":168},
+	"sourceSize": {"w":185,"h":189}
+},
+"oskar-back-walk.001.png":
+{
+	"frame": {"x":112,"y":335,"w":104,"h":157},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":22,"w":104,"h":157},
+	"sourceSize": {"w":185,"h":189}
+},
+"oskar-back-walk.002.png":
+{
+	"frame": {"x":1,"y":165,"w":104,"h":168},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":17,"w":104,"h":168},
+	"sourceSize": {"w":184,"h":189}
+},
+"oskar-back-walk.003.png":
+{
+	"frame": {"x":112,"y":335,"w":104,"h":157},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":22,"w":104,"h":157},
+	"sourceSize": {"w":185,"h":189}
+},
+"oskar-back.png":
+{
+	"frame": {"x":112,"y":335,"w":104,"h":157},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":22,"w":104,"h":157},
+	"sourceSize": {"w":185,"h":189}
+},
+"oskar-front-walk.000.png":
+{
+	"frame": {"x":219,"y":1,"w":104,"h":168},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":17,"w":104,"h":168},
+	"sourceSize": {"w":184,"h":189}
+},
+"oskar-front-walk.001.png":
+{
+	"frame": {"x":218,"y":335,"w":104,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":23,"w":104,"h":156},
+	"sourceSize": {"w":184,"h":189}
+},
+"oskar-front-walk.002.png":
+{
+	"frame": {"x":330,"y":160,"w":104,"h":168},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":17,"w":104,"h":168},
+	"sourceSize": {"w":184,"h":189}
+},
+"oskar-front-walk.003.png":
+{
+	"frame": {"x":218,"y":335,"w":104,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":23,"w":104,"h":156},
+	"sourceSize": {"w":184,"h":189}
+},
+"oskar-front.png":
+{
+	"frame": {"x":218,"y":335,"w":104,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":23,"w":104,"h":156},
+	"sourceSize": {"w":184,"h":189}
+},
+"oskar-left-walk.000.png":
+{
+	"frame": {"x":219,"y":171,"w":109,"h":162},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":17,"w":109,"h":162},
+	"sourceSize": {"w":185,"h":189}
+},
+"oskar-left-walk.001.png":
+{
+	"frame": {"x":1,"y":335,"w":109,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":23,"w":109,"h":156},
+	"sourceSize": {"w":185,"h":189}
+},
+"oskar-left-walk.002.png":
+{
+	"frame": {"x":330,"y":330,"w":109,"h":162},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":17,"w":109,"h":162},
+	"sourceSize": {"w":185,"h":189}
+},
+"oskar-left-walk.003.png":
+{
+	"frame": {"x":1,"y":335,"w":109,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":23,"w":109,"h":156},
+	"sourceSize": {"w":185,"h":189}
+},
+"oskar-left.png":
+{
+	"frame": {"x":1,"y":335,"w":109,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":23,"w":109,"h":156},
+	"sourceSize": {"w":185,"h":189}
+},
+"oskar-right-walk.000.png":
+{
+	"frame": {"x":1,"y":1,"w":110,"h":162},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":17,"w":110,"h":162},
+	"sourceSize": {"w":185,"h":189}
+},
+"oskar-right-walk.001.png":
+{
+	"frame": {"x":325,"y":1,"w":110,"h":157},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":22,"w":110,"h":157},
+	"sourceSize": {"w":185,"h":189}
+},
+"oskar-right-walk.002.png":
+{
+	"frame": {"x":107,"y":171,"w":110,"h":162},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":17,"w":110,"h":162},
+	"sourceSize": {"w":185,"h":189}
+},
+"oskar-right-walk.003.png":
+{
+	"frame": {"x":325,"y":1,"w":110,"h":157},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":22,"w":110,"h":157},
+	"sourceSize": {"w":185,"h":189}
+},
+"oskar-right.png":
+{
+	"frame": {"x":325,"y":1,"w":110,"h":157},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":22,"w":110,"h":157},
+	"sourceSize": {"w":185,"h":189}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "OskarAtlas2.png",
+	"format": "RGBA8888",
+	"size": {"w":440,"h":493},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:cdbc4736fa36300ec1866c568c18ec8f:e90df5cc18d2f0915f14782f0d778a2e:9e9ce7226a943d5fa55284ec3039617f$"
+}
+}
